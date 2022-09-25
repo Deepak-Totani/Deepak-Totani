@@ -29,10 +29,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-totani&show_icons=true&locale=en&layout=compact" alt="deepak-totani" /></p>
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-totani&" alt="deepak-totani" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak-totani&show_icons=true&locale=en" alt="deepak-totani" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-totani&" alt="deepak-totani" /></p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak-totani" alt="deepak-totani" /></a> </p>
 
