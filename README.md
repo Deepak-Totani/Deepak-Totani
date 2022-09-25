@@ -24,7 +24,8 @@
 <a href="https://www.hackerrank.com/deepaklohana_bs1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepaklohana_bs1?hr_r=1" height="30" width="40" /></a>
 </p>
 
-<br/>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-totani&show_icons=true&locale=en&layout=compact" alt="deepak-totani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak-totani&show_icons=true&locale=en" alt="deepak-totani" /></p>
